@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aspnetcorewebapi\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj": {}
+    "D:\\asp.net-core-web-api\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj": {}
   },
   "projects": {
-    "D:\\aspnetcorewebapi\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj": {
+    "D:\\asp.net-core-web-api\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspnetcorewebapi\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
+        "projectUniqueName": "D:\\asp.net-core-web-api\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
         "projectName": "NZWalks.UI",
-        "projectPath": "D:\\aspnetcorewebapi\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
+        "projectPath": "D:\\asp.net-core-web-api\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
         "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
-        "outputPath": "D:\\aspnetcorewebapi\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\obj\\",
+        "outputPath": "D:\\asp.net-core-web-api\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7hj6AdJ771U=",
+  "dgSpecHash": "A9Wttf4XQ5Q=",
   "success": true,
-  "projectFilePath": "D:\\aspnetcorewebapi\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
+  "projectFilePath": "D:\\asp.net-core-web-api\\Section 12 Consuming our Web API\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
